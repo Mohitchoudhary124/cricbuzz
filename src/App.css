@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.h-200{
+ height: 80px;
+}
+
+.ant-tabs-tabpane{
+  --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
